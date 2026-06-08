@@ -1,1 +1,5 @@
+python-telegram-bot[job-queue]==21.3
+yfinance==0.2.40
+pandas==2.2.2
+pandas-ta==0.3.14b
 
